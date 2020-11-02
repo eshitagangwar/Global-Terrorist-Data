@@ -25,4 +25,6 @@ Based on the data please come up with following exploratory analysis:
 11) Are certain nationalities more targeted? If yes, which one?
 12) Are some countries better at defending themselves against terrorist attacks? If yes, which is
 the safest country to live
+
+
 Courtesy: data-society
